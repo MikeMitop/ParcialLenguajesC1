@@ -1,0 +1,5 @@
+Variable1
+x
+id2026
+1numero
+mi_variable

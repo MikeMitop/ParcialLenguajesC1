@@ -1,0 +1,5 @@
+SQRT 25
+SQRT 144
+sqrt 2.25
+SQRT 10.5
+sqrt -4
